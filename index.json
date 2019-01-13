@@ -1,3 +1,16 @@
 {
-  "one": "two"
+  "add-ons": [
+    {
+      "name": "Support_BaseplateRules",
+      "description": "Adds Baseplate Alignment and Adjacency Rules for building",
+      "channels": [
+        {
+          "name": "release",
+          "version": "1.0.0",
+          "file": "http://boomshicleafaunda.github.io/storage/Support_BaseplateRules.zip",
+          "changelog": "http://boomshicleafaunda.github.io/changelong/Support_BaseplateRules.txt"
+        }
+      ]
+    }
+  ]
 }
