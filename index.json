@@ -6,9 +6,8 @@
       "channels": [
         {
           "name": "release",
-          "version": "1.0.0",
-          "file": "http://github.com/Boomshicleafaunda/Support_BaseplateRules/archive/v1.0.0.zip",
-          "changelog": "http://boomshicleafaunda.github.io/changelog/1.0.0/Support_BaseplateRules.txt"
+          "version": "1.0.2",
+          "file": "https://github.com/Boomshicleafaunda/Support_BaseplateRules/archive/v1.0.2.zip"
         }
       ]
     }
